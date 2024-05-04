@@ -1,6 +1,7 @@
 I am Gilad Kestenberg, a theoretical math major of Columbia University. I've been working on implementing AI solutions 
-Frontend Development with Svelte and Typescript.
-Backend Development with Typescript.
+
+- Frontend Development with Svelte and Typescript.
+- Backend Development with Typescript.
 
 - 🔭 I’m currently working on my startup LearnedEasy
 - 😄 Pronouns: He/Him/His
